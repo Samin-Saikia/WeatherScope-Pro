@@ -1,1 +1,7 @@
 *.db
+.env
+*.json
+*.csv
+/build
+/dist
+*.spec
